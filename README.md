@@ -12,4 +12,4 @@ cordova run android --emulator
 
 ```
 
-![image](./img/emulator.png)
+![image](./img/emulator.PNG)
